@@ -1,0 +1,17 @@
+Font Name===  Font type===
+monserat      bold
+monserat	medium
+moserat		extrabold
+monserat	regular
+-------------------
+
+Regular 400
+Medium 500
+Bold 700
+Extra-bold 800
+----------
+font family
+font-family: 'Montserrat', sans-serif;
+    
+
+
